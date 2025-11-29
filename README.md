@@ -1,3 +1,3 @@
 ﻿# Git_Seminar
 
-Amen
+Add changes in local file
